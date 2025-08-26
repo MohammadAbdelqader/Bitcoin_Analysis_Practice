@@ -46,7 +46,7 @@ Some sample outputs from the analysis:
 
 | Price Over Time | Candlestick Chart |
 |-----------------|-------------------|
-| ![Bitcoin Over Time](BI1_.png) | ![Candlestick](BI2.png) |
+| ![Bitcoin Over Time](BI1.png) | ![Candlestick](BI2.png) |
 
 
 |closing Price on Quarterly Basis | closing Price on Monthly Basis|
